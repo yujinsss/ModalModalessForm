@@ -53,7 +53,7 @@
             this.label1.Size = new System.Drawing.Size(214, 48);
             this.label1.TabIndex = 1;
             this.label1.Text = "3214 이유진";
-            this.label1.Click += new System.EventHandler(this.Label1_Click);
+            
             // 
             // FormAbout
             // 
