@@ -9,14 +9,14 @@ using System.Windows.Forms;
 
 namespace ModalModalessForm
 {
-    public partial class FormMain : Form
+    public partial class FormAbout : Form
     {
-        public FormMain()
+        public FormAbout()
         {
             InitializeComponent();
         }
 
-        private void FormMain_Load(object sender, EventArgs e)
+        private void Label1_Click(object sender, EventArgs e)
         {
 
         }
